@@ -63,3 +63,9 @@ ad-rbac-lab/
 
 Planned follow-on labs on the same Domain Controller: DNS, DHCP, LDAP, and
 Kerberos configuration and troubleshooting exercises.
+
+## Protocol Labs
+
+Hands-on exploration of the protocols underpinning this AD environment:
+
+- [LDAP](protocol-labs/ldap/README.md) — directory structure and queries via `ldp.exe` and PowerShell
