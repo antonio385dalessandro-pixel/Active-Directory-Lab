@@ -69,3 +69,5 @@ Kerberos configuration and troubleshooting exercises.
 Hands-on exploration of the protocols underpinning this AD environment:
 
 - [LDAP](protocol-labs/ldap/README.md) — directory structure and queries via `ldp.exe` and PowerShell
+
+- [Kerberos](protocol-labs/kerberos/README.md) — ticket structure, TGT/service ticket lifecycle, and loopback authentication behavior via `klist`
